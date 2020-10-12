@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<h1> WELCOME TO DEVOPS ACRCHITECT 4.0 !!! </h1>
+<h2> CI/CD : GIT--> MAVEN-->JENKINS-->TOMCAT </h2>
+<h3> by Chetan Dhandre </h3>
